@@ -1,0 +1,17 @@
+{
+    "cleanUrls": true,
+    "rewrites": [
+        {
+            "source": "/",
+            "destination": "/html/index.min.html"
+        },
+        {
+            "source": "/how-it-works",
+            "destination": "/html/how-it-works.min.html"
+        },
+        {
+            "source": "/app",
+            "destination": "/html/app.min.html"
+        }
+    ]
+}
